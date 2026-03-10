@@ -276,5 +276,9 @@ This project is open source and available under the MIT License.
 
 ## Screenshot
 
+<img width="1436" height="935" alt="movies1pro" src="https://github.com/user-attachments/assets/69f6479b-a303-4e67-b22e-7df4e0cbc1fc" />
+<img width="1396" height="893" alt="movies2pro" src="https://github.com/user-attachments/assets/91469038-48bb-4f35-ba70-5b398a95289e" />
+
+<img width="1412" height="916" alt="movies3pro" src="https://github.com/user-attachments/assets/b34d7633-b175-47a8-a991-f17934161c10" /><img width="1918" height="937" alt="movies4pro" src="https://github.com/user-attachments/assets/d290fad7-9c4f-4b1c-a660-9ca77435aa7c" />
 
 **Built with ❤️ using Angular 17**
