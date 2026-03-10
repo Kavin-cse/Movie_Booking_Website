@@ -2,6 +2,14 @@
 
 An advanced, production-ready Angular application for booking movie tickets with a modern UI, complete payment integration, and best practices.
 
+## 📸 Screenshots
+
+![Home Page](./Images/home.png)
+![Menu Page](./Images/menu.png)
+![Details Page](./Images/details.png)
+![Cart Page](./Images/cart.png)
+![Checkout Page](./Images/checkout.png)
+
 ## 🌟 Features
 
 ### Core Features
